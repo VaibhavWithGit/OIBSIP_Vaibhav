@@ -1,0 +1,154 @@
+<<<<<<< HEAD
+* {
+    margin: 0;
+}
+
+body {
+    background-color: rgb(255, 208, 171);
+}
+
+ul{
+    display: flex;
+    flex-direction: row; 
+    margin: auto 16%;
+}
+
+.navbar{
+    display: block;
+    margin: auto;
+    width: 100%;
+    background-color: rgb(12, 12, 12);
+}
+
+ul li{
+
+    list-style: none;
+    padding: 20px;
+    width: 100%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a{
+    text-decoration: none;
+    font-size: 25px;
+    color: rgb(255, 115, 0);
+    padding: 10px 15px;
+    transition: all 0.3s;
+    border-radius: 15px;
+}
+
+a:hover{
+    background-color: rgb(255, 115, 0);
+    color: #fff;
+}
+
+h1 {
+    margin: 4% auto 6%;
+    display: block;
+    text-align: center;
+    font-family: roboto;
+    font-weight: 800;
+    font-size: 6em;
+    color: rgb(214, 0, 0);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    text-align: center;
+    font-family: ubuntu;
+    color: rgb(255, 115, 0);
+    font-size: 3em;
+    margin: 6% auto 4%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+img{
+    width: 100%;
+}
+
+p{
+    margin: auto 10%;
+    font-size: 25px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#learn{
+    margin-bottom: 10%;
+=======
+* {
+    margin: 0;
+}
+
+body {
+    background-color: rgb(255, 208, 171);
+}
+
+ul{
+    display: flex;
+    flex-direction: row; 
+    margin: auto 16%;
+}
+
+.navbar{
+    display: block;
+    margin: auto;
+    width: 100%;
+    background-color: rgb(12, 12, 12);
+}
+
+ul li{
+
+    list-style: none;
+    padding: 20px;
+    width: 100%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a{
+    text-decoration: none;
+    font-size: 25px;
+    color: rgb(255, 115, 0);
+    padding: 10px 15px;
+    transition: all 0.3s;
+    border-radius: 15px;
+}
+
+a:hover{
+    background-color: rgb(255, 115, 0);
+    color: #fff;
+}
+
+h1 {
+    margin: 4% auto 6%;
+    display: block;
+    text-align: center;
+    font-family: roboto;
+    font-weight: 800;
+    font-size: 6em;
+    color: rgb(214, 0, 0);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    text-align: center;
+    font-family: ubuntu;
+    color: rgb(255, 115, 0);
+    font-size: 3em;
+    margin: 6% auto 4%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+img{
+    width: 100%;
+}
+
+p{
+    margin: auto 10%;
+    font-size: 25px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#learn{
+    margin-bottom: 10%;
+>>>>>>> 5bab7cddb587b4abfc62c1c87ca1345d5f97edfd
+}
